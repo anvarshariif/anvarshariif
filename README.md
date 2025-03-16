@@ -9,9 +9,13 @@ Java Developer | Jakarta EE Enthusiast | Spring Boot Specialist
 🌟 Key Skills:
 
 -Programming: Java, Jakarta EE, Object-Oriented Programming (OOP), Multithreading
+
 -Database Management: PostgreSQL
+
 -Frameworks and Tools: ORM (e.g., JPA), REST APIs, Maven, Spring Framework, Spring Boot,Spring JDBC,Hibernate
+
 -Principles: SOLID, Clean Code
+
 -Additional Skills: Building Telegram Bots using the Telegram Bot API
   
 ## 📫 Connect with Me
