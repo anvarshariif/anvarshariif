@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
 </p>
 
-## Stack I'm working with 🧰
+## Stack I'm working with 
 
 ### Languages:
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()  
@@ -31,16 +31,7 @@
 
 ### Databases:
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()  
-[![H2 DB Badge](https://img.shields.io/badge/H2_DB-D35400?style=flat-square)]()
-
-### Office:
-[![Microsoft Word Badge](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)]()  
-[![Microsoft Excel Badge](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]()  
-[![Microsoft PowerPoint Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)]()
-
-### Operating System:
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()  
-[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![H2 DB Badge](https://img.shields.io/badge/mongoDB)]()
 
 ### IDEs/Editors:
 [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()  
