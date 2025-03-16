@@ -4,10 +4,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
-## 🚀 About Me
-- 👨‍💻 I'm a **Java Developer** passionate about building scalable and efficient applications.
-- 🎯 Currently focusing on **Spring Boot, PostgreSQL, and Telegram bot development**.
-- 📚 Always eager to learn and explore new technologies in the software development world.
+Java Developer | Jakarta EE Enthusiast | Spring Boot Specialist
+
+🌟 Key Skills:
+
+Programming: Java, Jakarta EE, Object-Oriented Programming (OOP), Multithreading
+Database Management: PostgreSQL
+Frameworks and Tools: ORM (e.g., JPA), REST APIs, Maven, Spring Framework, Spring Boot,Spring JDBC,Hibernate
+Principles: SOLID, Clean Code
+Additional Skills: Building Telegram Bots using the Telegram Bot API
   
 ## 📫 Connect with Me
 <p align="left">
