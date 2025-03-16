@@ -8,13 +8,20 @@
 - 👨‍💻 I'm a **Java Developer** passionate about building scalable and efficient applications.
 - 🎯 Currently focusing on **Spring Boot, PostgreSQL, and Telegram bot development**.
 - 📚 Always eager to learn and explore new technologies in the software development world.
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
+  
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/anvar-sharif-447767331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/anvarsharif" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
-## Stack I'm working with 
+## 📞 Contact Me
+- 📧 Email: anvarshariif@gmail.com
+- 📞 Phone: +998933111021
 
 ### Languages:
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()  
@@ -51,16 +58,4 @@
 - **PostgreSQL** for working with relational databases  
 - **Telegram Bot API** to create smart bots  
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mavlon-akmalov-84153a34b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Akmalov_07_01" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
 
-## 📞 Contact Me
-- 📧 Email: anvarshariif@gmail.com
-- 📞 Phone: +998933111021
